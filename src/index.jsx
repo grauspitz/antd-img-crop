@@ -260,7 +260,7 @@ const ImgCrop = forwardRef((props, ref) => {
         }
       },
       type,
-      0.4
+      1
     );
   }, [hasRotate, onClose, rotateVal]);
 
